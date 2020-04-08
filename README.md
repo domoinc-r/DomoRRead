@@ -38,6 +38,10 @@ You can install directly from our public Github repository:
   ```
   install_github(repo="domoinc-r/DomoRRead")
   ```
+  
+  ```
+  library('DomoRRead')
+  ```
 
 #### Installation method from filesystem
 The easy way is to manually download and install from your filesystem.
